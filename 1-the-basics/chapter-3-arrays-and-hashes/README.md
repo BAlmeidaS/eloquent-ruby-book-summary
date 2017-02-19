@@ -1,3 +1,5 @@
+#Collections
+
 ## Array
 
 `words = [ 'little', 'dog', 'things', 'wonder' ]`
