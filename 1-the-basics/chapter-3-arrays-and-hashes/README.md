@@ -10,7 +10,6 @@
 
 *Hash Rocket:*  **=>**
 
-
 `a_hash = { "I" => 1, "dont" => 2, "like" => 1,  "spam" => 932 }`
 
 `book_authour = {:first_name => "Russ", :last_name => "Olsen" }`
@@ -172,4 +171,3 @@ Ruby convention is that an exclamation poin at the end of a method name indicate
   [2] "3"
 ]
 ```
-
